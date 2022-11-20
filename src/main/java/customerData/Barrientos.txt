@@ -1,0 +1,7 @@
+First Name: Romeo
+Last Name: Barrientos
+Address: 12203
+Phone Number: 9176841463
+Customer ID: 1100
+Savings Account Number: 1212313
+Checkings Account Number: 123123
